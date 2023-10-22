@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.print.demo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="8"
+8-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:8:9-34
+9        android:targetSdkVersion="14" />
+9-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:9:9-38
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:11:5-68
+11-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:11:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:12:5-74
+12-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:12:22-71
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:13:5-75
+13-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:13:22-73
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+14-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:14:5-75
+14-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:14:22-73
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:15:5-66
+15-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:15:22-64
+16    <uses-permission android:name="android.hardware.usb.host" />
+16-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:16:5-65
+16-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:16:22-62
+17
+18    <application
+18-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:18:5-43:19
+19        android:allowBackup="true"
+19-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:19:9-35
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcher"
+21-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:20:9-45
+22        android:label="@string/app_name"
+22-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:21:9-41
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:22:9-40
+25        <activity
+25-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:23:9-32:20
+26            android:name="com.android.print.demo.MainActivity"
+26-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:24:13-41
+27            android:label="@string/app_name"
+27-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:25:13-45
+28            android:screenOrientation="portrait" >
+28-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:26:13-49
+29            <intent-filter>
+29-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:27:13-31:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:28:17-69
+30-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:28:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:30:17-77
+32-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:30:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:34:9-37:59
+36            android:name="com.android.print.demo.BluetoothDeviceList"
+36-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:35:13-48
+37            android:screenOrientation="portrait"
+37-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:36:13-49
+38            android:theme="@android:style/Theme.Dialog" />
+38-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:37:13-56
+39        <activity
+39-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:38:9-41:59
+40            android:name="com.android.print.demo.UsbDeviceList"
+40-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:39:13-42
+41            android:screenOrientation="portrait"
+41-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:40:13-49
+42            android:theme="@android:style/Theme.Dialog" />
+42-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:41:13-56
+43        <activity
+43-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:42:9-88
+44            android:name="com.android.print.demo.IpAddressEdit"
+44-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:42:19-48
+45            android:theme="@style/MyDialogStyle" />
+45-->C:\Users\islam\StudioProjects\android_print_demo\app\src\main\AndroidManifest.xml:42:49-85
+46    </application>
+47
+48</manifest>

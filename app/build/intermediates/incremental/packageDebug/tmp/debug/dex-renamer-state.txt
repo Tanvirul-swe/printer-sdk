@@ -1,0 +1,4 @@
+#Sun Oct 22 16:59:40 BDT 2023
+base.0=C\:\\Users\\islam\\StudioProjects\\android_print_demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

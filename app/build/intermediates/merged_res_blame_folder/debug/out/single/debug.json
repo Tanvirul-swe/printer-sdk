@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_cyan_blue_bormal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\cyan_blue_bormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_white_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\white_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_rsz_1prescription.bmp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\rsz_1prescription.bmp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_red_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\red_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-mdpi_slide.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-mdpi\\slide.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_red_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\red_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_my_editbox.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\my_editbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_slide1.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\slide1.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_my_picture.bmp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\my_picture.bmp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_ic_preference_single_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_default_bg.jpg.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\default_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_device_item.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\device_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_white.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "com.android.print.demo.app-merged_res-4:/layout_ip_address_edit.xml.flat",
+        "source": "com.android.print.demo.app-main-6:/layout/ip_address_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_red.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_green_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\green_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_green_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\green_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_layout_wifi.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\layout_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_edit_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\edit_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_preference_single_item.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_btn_style_one_focused.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_confirm_dialog_bg2.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\confirm_dialog_bg2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_green.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_green1.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_green1.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_layout_bluetooth.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\layout_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_btn_style_one_normal.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_layout_usb.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\layout_usb.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_white_focused.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\white_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_cyan.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_btn_style_disabled.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\btn_style_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_goodwork.bmp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\goodwork.bmp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_white_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\white_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_rsz_prescription.bmp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\rsz_prescription.bmp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_ic_preference_single_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_prescription1.bmp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\prescription1.bmp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_edit_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\edit_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_btn_style_one_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable_btn_style_blue.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable\\btn_style_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_red_focused.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\red_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_blue_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\blue_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\layout_ip_address_edit.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\layout\\ip_address_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_prescription72.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\prescription72.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_cyan_blue_pressed.9.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\cyan_blue_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-merged_res-4:\\drawable-hdpi_prescription.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\8.0\\com.android.print.demo.app-main-6:\\drawable-hdpi\\prescription.png"
+    }
+]
